@@ -4,11 +4,11 @@
 
 <a align="center" href=#><img src="./sources/contributions.svg"></a>
 
-<p align="center"> 
+<div align="center"> 
   <b>Visitor Counter</b>
   <br>
   <img src="https://profile-counter.glitch.me/0xAymane/count.svg" />
-</p>
+</div>
 
 ***
 
