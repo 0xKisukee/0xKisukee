@@ -9,13 +9,17 @@
 
 ***
 
+## My 2023 Goals 🏆
+
+## Skills
+
 ### Programming languages I have experience with:
 <br>
 
 <div>
 <img src="./sources/solidity.png" alt="Solidity" height="60" />
 <img src="./sources/python.png" alt="Python" height="60" />
-<img src="./sources/javascript.png" alt="Javascript" height="60" padding="10" />
+<img src="./sources/javascript.png" alt="Javascript" height="60" margin="50" />
 <img src="./sources/html.png" alt="HTML" height="60" />
 <img src="./sources/css.png" alt="CSS" height="60" />
 <img src="./sources/php.png" alt="PHP" height="60" />
@@ -35,5 +39,5 @@
 
 Language | Level
 -------- | --------
-French | First language
-English | C1
+French   | Main language
+English  | C1
