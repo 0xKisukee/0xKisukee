@@ -1,8 +1,8 @@
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-![](https://giphy.com/embed/GpJV4qJNSVrwQvCpva)
+![](https://media0.giphy.com/media/GpJV4qJNSVrwQvCpva/giphy.gif)
 
-![](https://giphy.com/gifs/digipen-game-dev-school-student-GpJV4qJNSVrwQvCpva)
+![](https://media0.giphy.com/media/IoZDK4acSaiaEovaz9/giphy.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
