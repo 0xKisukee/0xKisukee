@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <b>Visitor Counter</b>
-  <br><br>
+  <br>
   <img src="https://profile-counter.glitch.me/0xAymane/count.svg" />
 </p>
 
