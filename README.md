@@ -1,7 +1,5 @@
-
-
-
 ![](https://media0.giphy.com/media/IoZDK4acSaiaEovaz9/giphy.gif)
+
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
