@@ -1,6 +1,6 @@
-![](sources/deathhhh.gif)
+![](./sources/deathhhh.gif)
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="./sources/contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
@@ -10,4 +10,4 @@
 ***
 
 ### Programming languages I have experience with:
-<img src="[https://profilinator.rishav.dev/skills-assets/javascript-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png)" alt="Solidity" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="Solidity" height="45" />
