@@ -10,4 +10,9 @@
 ***
 
 ### Programming languages I have experience with:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="Solidity" height="45" />
+<img src="./sources/solidity.png" alt="Solidity" height="60" />
+<img src="./sources/javascript.png" alt="Javascript" height="60" />
+<img src="./sources/html.png" alt="HTML" height="60" />
+<img src="./sources/css.png" alt="CSS" height="60" />
+<img src="./sources/linux.png" alt="Linux" height="60" />
+<img src="./sources/sql.png" alt="SQL" height="60" />
