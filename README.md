@@ -15,7 +15,7 @@
 <div>
 <img src="./sources/solidity.png" alt="Solidity" height="60" />
 <img src="./sources/python.png" alt="Python" height="60" />
-<img src="./sources/javascript.png" alt="Javascript" height="60" />
+<img src="./sources/javascript.png" alt="Javascript" height="60" padding="10" />
 <img src="./sources/html.png" alt="HTML" height="60" />
 <img src="./sources/css.png" alt="CSS" height="60" />
 <img src="./sources/php.png" alt="PHP" height="60" />
