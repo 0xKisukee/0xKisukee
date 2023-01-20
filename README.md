@@ -24,7 +24,7 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 
 ### Programming languages I have experience with:
 <br>
-![Solidity](./sources/solidity.png){: height="65px" padding-right:10px}
+![](./sources/solidity.png)
 ![Python](./sources/python.png){: height="60px" padding-right:10px}
 <div>
 <img src="./sources/solidity.png" alt="Solidity" height="65" style=”margin: 80px 80px 80px 80px;” />
