@@ -1,5 +1,5 @@
 ![](./sources/death.gif)
-![](./sources/solidity.png)
+
 <a align="center" href=#><img src="./sources/contributions.svg"></a>
 
 <p align="center"> 
@@ -13,7 +13,7 @@
 Welcome on my Github profile.
 Feel free to take a walk in my repositories and projects.
 If you have any suggestion or request, we can get in touch through my mail : aymane@aitbenali.fr
-![](./sources/solidity.png)
+
 ## My 2023 Goals 🎯
 
 - Goal 1
@@ -23,6 +23,7 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 ## Skills 🏆
 
 ### Programming languages I have experience with:
+![](./sources/solidity.png)
 <br>
 ![](./sources/solidity.png)
 ![Python](./sources/python.png){: height="60px" padding-right:10px}
