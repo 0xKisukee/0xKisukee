@@ -14,12 +14,12 @@ Welcome on my Github profile.
 Feel free to take a walk in my repositories and projects.
 If you have any suggestion or request, we can get in touch through my mail : aymane@aitbenali.fr
 
-## 2023 Goals 🎯
+## 🎯 2023 Goals
 
 - Create a blockchain consulting studio
 - 1000 Commits on Github
 
-## Skills 🏆
+## 🏆 Skills
 
 ### Programming languages I have experience with:
 
