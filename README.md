@@ -5,8 +5,8 @@
 <a align="center" href=#><img src="./sources/contributions.svg"></a>
 
 <p align="center"> 
-  <b>Visitor count</b>
-  <br>
+  <b>Visitor Counter</b>
+  <br><br>
   <img src="https://profile-counter.glitch.me/0xAymane/count.svg" />
 </p>
 
