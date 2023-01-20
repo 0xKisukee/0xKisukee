@@ -26,7 +26,7 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 <br>
 
 <div>
-<img src="./sources/solidity.png" alt="Solidity" height="65" style=”margin: 20px 20px 20px 20px;” />
+<img src="./sources/solidity.png" alt="Solidity" height="65" style=”margin: 80px 80px 80px 80px;” />
 <img src="./sources/python.png" alt="Python" height="60" />
 <img src="./sources/javascript.png" alt="Javascript" height="60" />
 <img src="./sources/sql2.png" alt="SQL" height="65" />
