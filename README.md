@@ -16,8 +16,8 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 
 ## 🎯 2023 Goals
 
-- Create a blockchain consulting studio
-- 1000 Commits on Github
+- **Create a blockchain consulting studio**
+- **1000 Commits on Github**
 
 ## 🏆 Skills
 
@@ -33,7 +33,7 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 <img src="./sources/sql2.png" alt="SQL" height="66" />
 </div>
 
-### Operating Systems I use the most:
+### Operating Systems I can use:
 <br>
 
 <div>
