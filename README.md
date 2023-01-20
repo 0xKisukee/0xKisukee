@@ -1,4 +1,4 @@
-![](./sources/deathhhh.gif)
+![](./sources/death.gif)
 
 <a align="center" href=#><img src="./sources/contributions.svg"></a>
 
@@ -12,16 +12,20 @@
 
 ## My 2023 Goals 🎯
 
+- Goal 1
+- Goal 2
+- Goal 3
+
 ## Skills 🏆
 
 ### Programming languages I have experience with:
 <br>
 
 <div>
-<img src="./sources/solidity.png" alt="Solidity" height="60" />
-<img src="./sources/python.png" alt="Python" height="60" />
+<img src="./sources/solidity.png" alt="Solidity" height="60" style="margin:50px" />
+<img src="./sources/python.png" alt="Python" height="60" style="margin:50px" />
 <img src="./sources/javascript.png" alt="Javascript" height="60" style="margin:50px" />
-<img src="./sources/html.png" alt="HTML" height="60" />
+<img src="./sources/html.png" alt="HTML" height="60" style="margin:50px" />
 <img src="./sources/css.png" alt="CSS" height="60" />
 <img src="./sources/php.png" alt="PHP" height="60" />
 <img src="./sources/sql.png" alt="SQL" height="60" />
