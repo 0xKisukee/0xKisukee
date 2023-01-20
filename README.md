@@ -1,5 +1,5 @@
 ![](./sources/death.gif)
-
+![](./sources/solidity.png)
 <a align="center" href=#><img src="./sources/contributions.svg"></a>
 
 <p align="center"> 
