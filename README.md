@@ -10,16 +10,20 @@
 
 ***
 
-Welcome on my Github profile.
+**Welcome on my Github profile.**
+
 <br>
-Feel free to take a walk in my repositories and projects.
+
+Feel free to take a walk in my **repositories and projects**.
+
 <br>
-If you have any suggestion or request, we can get in touch through my mail : aymane@aitbenali.fr
+
+If you have any **suggestion or request**, we can get in touch through **my mail : aymane@aitbenali.fr**
 
 ## 🎯 2023 Goals
 
-- **Create a blockchain consulting studio**
-- **1000 Commits on Github**
+- Create a **blockchain consulting studio**
+- **1000 Commits** on Github
 
 ## 🏆 Skills
 
@@ -36,6 +40,7 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 </div>
 
 ### Operating Systems I can use:
+
 <br>
 
 <div>
