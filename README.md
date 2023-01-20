@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/IoZDK4acSaiaEovaz9/giphy.gif)
+![](sources/deathhhh.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
