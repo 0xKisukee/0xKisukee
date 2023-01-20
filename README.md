@@ -26,10 +26,10 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 <br>
 
 <div>
-<img src="./sources/solidity.png" alt="Solidity" height="60" />
+<img src="./sources/solidity.png" alt="Solidity" height="65" />
 <img src="./sources/python.png" alt="Python" height="60" />
 <img src="./sources/javascript.png" alt="Javascript" height="60" />
-<img src="./sources/sql2.png" alt="SQL" height="60" />
+<img src="./sources/sql2.png" alt="SQL" height="65" />
 </div>
 
 ### Operating Systems I use the most:
