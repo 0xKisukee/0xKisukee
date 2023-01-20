@@ -26,10 +26,10 @@ If you have any suggestion or request, we can get in touch through my mail : aym
 <br>
 
 <div>
-<img src="./sources/solidity.png" alt="Solidity" height="60" style="margin:50px 50px" />
-<img src="./sources/python.png" alt="Python" height="60" style="margin:50px 50px" />
-<img src="./sources/javascript.png" alt="Javascript" height="60" style="margin:50px 50px" />
-<img src="./sources/html.svg" alt="HTML" height="65" style="margin:50px 50px" />
+<img src="./sources/solidity.png" alt="Solidity" height="60" style="margin:50px 50px 50px 50px" />
+<img src="./sources/python.png" alt="Python" height="60" style="margin:50px 50px 50px 50px" />
+<img src="./sources/javascript.png" alt="Javascript" height="60" style="margin:50px 50px 50px 50px" />
+<img src="./sources/html.svg" alt="HTML" height="64" style="margin:50px 50px 50px 50px" />
 <img src="./sources/css.png" alt="CSS" height="60" />
 <img src="./sources/php.png" alt="PHP" height="60" />
 <img src="./sources/sql.png" alt="SQL" height="60" />
