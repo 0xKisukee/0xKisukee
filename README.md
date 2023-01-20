@@ -1,6 +1,8 @@
 ![](./sources/death.gif)
 
-<img align="center" src="./sources/death.gif" />
+<p align="center">
+  <img src="./sources/death.gif" />
+</p>
 
 <a align="center" href=#><img src="./sources/contributions.svg"></a>
 
