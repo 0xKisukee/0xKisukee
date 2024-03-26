@@ -16,7 +16,7 @@
 
 Feel free to take a walk in my **repositories and projects**.
 
-If you have any **suggestion or request**, we can get in touch through **my mail : aymane@aitbenali.fr**
+If you have any **suggestion or request**, we can get in touch through **my mail : XXX**
 
 ## 🎯 2023 Goals
 
