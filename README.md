@@ -21,10 +21,10 @@ If you have any **suggestion or request**, we can get in touch through **my mail
 ## 🎯 2023 Goals
 
 - Create a **blockchain consulting studio**
-- **1000 Commits** on Github
 
 ## 🎯 2024 Goals
 
+- **1000 Commits** on Github
 - just enjoy life
 
 ## 🏆 Skills
