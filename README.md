@@ -34,11 +34,11 @@ If you have any **suggestion or request**, we can get in touch through **my mail
 <br>
 
 <div>
-  <img src="./sources/solidity.png" alt="Solidity" height="68" />
-  <img src="./sources/python.png" alt="Python" height="60" />
+  <img src="./sources/solidity.png" alt="Solidity" height="21" />
+  <img src="./sources/python.png" alt="Python" height="20" />
   &nbsp
-  <img src="./sources/javascript.png" alt="Javascript" height="60" />
-  <img src="./sources/sql2.png" alt="SQL" height="66" />
+  <img src="./sources/javascript.png" alt="Javascript" height="20" />
+  <img src="./sources/sql2.png" alt="SQL" height="21" />
 </div>
 
 ### Operating Systems I can use:
@@ -46,11 +46,11 @@ If you have any **suggestion or request**, we can get in touch through **my mail
 <br>
 
 <div>
-  <img src="./sources/linux.png" alt="Linux" height="60" />
+  <img src="./sources/linux.png" alt="Linux" height="20" />
   &nbsp
-  <img src="./sources/windows.png" alt="Windows" height="60" />
+  <img src="./sources/windows.png" alt="Windows" height="20" />
   &nbsp
-  <img src="./sources/aix.png" alt="AIX" height="60" />
+  <img src="./sources/aix.png" alt="AIX" height="20" />
 </div>
 
 ### I can speak:
